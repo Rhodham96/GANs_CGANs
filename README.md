@@ -121,8 +121,10 @@ Feel free to contribute to this project by submitting pull requests. You can:
 
 ### Author
 
-\[Robin Hamers\]
+Robin Hamers ([Rhodham96](https://github.com/Rhodham96))
+
+You can find more details about this project in [my article on Medium](https://medium.com/@robin.hamers) and connect with me on [LinkedIn](https://www.linkedin.com/in/robin-hamers/).
 
 ### License
 
-\[Choose a license, e.g., MIT License\]
+This project is licensed under the MIT License.
