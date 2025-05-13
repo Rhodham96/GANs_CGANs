@@ -52,13 +52,13 @@ You can install the required packages using pip:
 1.  Clone this repository:
 
     ```
-    git clone [https://github.com/your_username/your_repository_name.git](https://github.com/your_username/your_repository_name.git)
+    git clone [https://github.com/Rhodham96/GANs_CGANs.git](https://github.com/Rhodham96/GANs_CGANs.git)
     ```
 
 2.  Navigate to the repository directory:
 
     ```
-    cd your_repository_name
+    cd GANs_CGANs
     ```
 
 3.  Navigate to the notebooks directory:
@@ -69,9 +69,6 @@ You can install the required packages using pip:
 
 4.  Run the Jupyter Notebook:
 
-    ```
-    jupyter notebook
-    ```
 
 5.  Open the desired notebook (`GANs_MNIST.ipynb` or `CGANs_MNIST.ipynb`) and follow the instructions.
 
