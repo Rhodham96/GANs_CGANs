@@ -1,4 +1,4 @@
-## GANs and CGANs on MNIST Dataset
+# GANs and CGANs on MNIST Dataset
 
 This repository contains Jupyter Notebooks that implement Generative Adversarial Networks (GANs) and Conditional Generative Adversarial Networks (CGANs) for generating handwritten digits from the MNIST dataset.
 
