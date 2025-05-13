@@ -52,7 +52,7 @@ You can install the required packages using pip:
 1.  Clone this repository:
 
     ```
-    git clone [https://github.com/Rhodham96/GANs_CGANs.git](https://github.com/Rhodham96/GANs_CGANs.git)
+    git clone https://github.com/Rhodham96/GANs_CGANs.git
     ```
 
 2.  Navigate to the repository directory:
